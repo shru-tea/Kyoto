@@ -1,2 +1,2 @@
 # Kyoto
-static multi platform sushi bar site
+getting to it
